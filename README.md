@@ -1,18 +1,17 @@
 <!-- PROFILE README FOR MD. MIZU AHMMED JIM -->
 
 <!-- Typing Animation Header -->
+
+
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
+<br><br>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Md.+Mizu+Ahmmed+Jim;Frontend+Developer+from+Bangladesh;React+|+JavaScript+|+UI%2FUX;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <img src="mizuguru.png" alt="Coding Animation" style="width:100%; max-width:1200px; height:300;" />
-</p>
-
-
-
 
 
 <!-- Social Badge -->
