@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+![Django Web Developer](git_banner.png)
 <h1 align="center">Hi 👋, I'm Md. Mizu Ahmmed Jim</h1>
 <h3 align="center">✨ Passionate Frontend Developer from Bangladesh 🇧🇩 ✨</h3>
 
