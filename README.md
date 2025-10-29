@@ -1,5 +1,16 @@
-<!-- Profile Header -->
-![Mizu banner](mizu.png)
+<!-- PROFILE README FOR MD. MIZU AHMMED JIM -->
+
+<!-- Typing Animation Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Md.+Mizu+Ahmmed+Jim;Frontend+Developer+from+Bangladesh;React+|+JavaScript+|+UI%2FUX;Always+learning+new+things!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="mizuguru.png" width="400" alt="Coding Animation">
+</p>
+
 <h1 align="center">Hi 👋, I'm Md. Mizu Ahmmed Jim</h1>
 <h3 align="center">✨ Passionate Frontend Developer from Bangladesh 🇧🇩 ✨</h3>
 
