@@ -21,7 +21,7 @@
 ### 🌱 About Me  
 - 🔭 I’m a **Frontend Developer** focused on creating beautiful and responsive web interfaces.  
 - 🌱 Currently learning **TypeScript** to enhance my React development skills.  
-- 💬 Ask me about **React, Tailwind, JavaScript, or UI/UX Design.**  
+- 💬 Ask me about **React, Tailwind, JavaScript, or UI/UX Design,Bootstrap**  
 - 📫 Reach me at: **mdmizu634431@gmail.com**  
 - ⚡ Fun fact: I love clean UI, minimal design, and pixel-perfect layouts.  
 
