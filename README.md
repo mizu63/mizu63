@@ -79,7 +79,7 @@
 
 ### 🌐 Visitor Map  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronyo24&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizu63&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
