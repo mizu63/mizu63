@@ -8,18 +8,19 @@
 </p>
 
 <p align="center">
-  <img src="mizuguru.png" width="400" alt="Coding Animation">
+  <img src="mizuguru.png" alt="Coding Animation" style="width:100%; max-width:1200px; height:300;" />
 </p>
+
 
 
 
 
 <!-- Social Badge -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://twitter.com/ahmmedmizu60051" target="blank">
     <img src="https://img.shields.io/twitter/follow/ahmmedmizu60051?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-</p>
+</p>-->
 
 ---
 
