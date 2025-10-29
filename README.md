@@ -1,29 +1,87 @@
-<h1 align="center">Hi 👋, I'm Md.Mizu Ahmmed Jim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Md. Mizu Ahmmed Jim</h1>
+<h3 align="center">✨ Passionate Frontend Developer from Bangladesh 🇧🇩 ✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mizu63&label=Profile%20views&color=0e75b6&style=flat" alt="mizu63" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizu63" alt="mizu63" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@ahmmedmizu60051" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmmedmizu60051?logo=twitter&style=for-the-badge" alt="@ahmmedmizu60051" /></a> </p>
-
-- 🌱 I’m currently learning **typescript**
-
-- 📫 How to reach me **mdmizu634431@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ahmmedmizu60051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahmmedmizu60051" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mizuahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mizuahmmed" height="30" width="40" /></a>
-<a href="https://fb.com/mizuahmmedjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mizuahmmedjim" height="30" width="40" /></a>
-<a href="https://instagram.com/@mizuahmmedjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mizuahmmedjim" height="30" width="40" /></a>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mizu63&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mizu63" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mizu63&theme=dracula&margin-w=10&row=1" alt="mizu63" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizu63&show_icons=true&locale=en&layout=compact" alt="mizu63" /></p>
+<!-- Social Badge -->
+<p align="center">
+  <a href="https://twitter.com/ahmmedmizu60051" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ahmmedmizu60051?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mizu63&show_icons=true&locale=en" alt="mizu63" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizu63&" alt="mizu63" /></p>
+### 🌱 About Me  
+- 🔭 I’m a **Frontend Developer** focused on creating beautiful and responsive web interfaces.  
+- 🌱 Currently learning **TypeScript** to enhance my React development skills.  
+- 💬 Ask me about **React, Tailwind, JavaScript, or UI/UX Design.**  
+- 📫 Reach me at: **mdmizu634431@gmail.com**  
+- ⚡ Fun fact: I love clean UI, minimal design, and pixel-perfect layouts.  
+
+---
+
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://twitter.com/ahmmedmizu60051" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/mizuahmmed" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://fb.com/mizuahmmedjim" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40" />
+  </a>
+  <a href="https://instagram.com/mizuahmmedjim" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+  </a>
+</p>
+
+---
+
+### 🧠 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,figma,git,ps,ai" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mizu63&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mizu63&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizu63&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💡 Quote of the Day  
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+### 🌐 Visitor Map  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizu63&theme=radical" alt="Profile Summary" />
+</p>
+
+---
+
+⭐ **“Building things that live beautifully on the web.”**  
