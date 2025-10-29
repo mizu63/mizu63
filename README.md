@@ -7,12 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=mizu63&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mizu63" />
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mizu63&theme=dracula&margin-w=10&row=1" alt="mizu63" />
-  </a>
-</p>
+
 
 <!-- Social Badge -->
 <p align="center">
@@ -56,7 +51,12 @@
 </p>
 
 ---
-
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mizu63&theme=dracula&margin-w=10&row=1" alt="mizu63" />
+  </a>
+</p>
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mizu63&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
