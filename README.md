@@ -40,7 +40,7 @@
   <a href="https://linkedin.com/in/mizuahmmed" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://fb.com/mizuahmmedjim" target="_blank">
+  <a href="https://www.facebook.com/mizuahmmedjim.mizu.3" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" />
   </a>
   <a href="https://instagram.com/mizuahmmedjim" target="blank">
