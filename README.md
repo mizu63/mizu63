@@ -23,14 +23,50 @@
 
 ---
 
-### 🌱 About Me  
-- 🔭 I’m a **Frontend Developer** focused on creating beautiful and responsive web interfaces.  
-- 🌱 Currently learning **TypeScript** to enhance my React development skills.  
-- 💬 Ask me about **React, Tailwind, JavaScript, or UI/UX Design,Bootstrap**  
-- 📫 Reach me at: **mdmizu634431@gmail.com**  
-- ⚡ Fun fact: I love clean UI, minimal design, and pixel-perfect layouts.  
+🌱 About Me
+
+👨‍💻 I'm a Frontend Developer from Bangladesh.
+
+💻 I build modern, responsive, and user-friendly web applications.
+
+⚛️ I work with React.js, Next.js, JavaScript, and TypeScript.
+
+🎨 I use Tailwind CSS, Bootstrap, and CSS to create clean and beautiful designs.
+
+🔗 I have experience working with REST APIs, MongoDB, and authentication.
+
+🚀 I'm always learning new technologies and improving my coding skills.
+
+🤝 I enjoy solving problems and building real-world projects.
+
+📫 Email: mdmizu634431@gmail.com
+
+🌐 Portfolio Projects: Bazar Dor | FitLog
+
+💡 My Goal: To become a skilled Frontend Developer and build useful web applications.
 
 ---
+
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://bazardor-sigma.vercel.app">
+    <img src="https://img.shields.io/badge/Bazar_Dor-Live_Demo-0A66C2?style=for-the-badge" alt="Bazar Dor Live Demo" />
+  </a>
+  <a href="https://fitlog1-tan.vercel.app">
+    <img src="https://img.shields.io/badge/FitLog-Live_Demo-2E8B57?style=for-the-badge" alt="FitLog Live Demo" />
+  </a>
+</p>
+
+- 🛒 **Bazar Dor:** A market price tracking web application.
+- 💪 **FitLog:** A workout tracking web application.
+
+---
+
+
 
 ### 🤝 Connect With Me  
 <p align="center">
@@ -50,11 +86,24 @@
 
 ---
 
-### 🧠 Languages & Tools  
+---
+
+### 🧠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,figma,git,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,mongodb,figma,git,github,ps,ai" alt="Languages and Tools" />
 </p>
 
+---
+---
+
+### 🎯 Current Focus
+
+- ⚛️ Improving my React.js and Next.js skills.
+- 📘 Learning TypeScript.
+- 🚀 Building responsive web applications.
+- 💼 Preparing for Frontend Developer opportunities.
+
+---
 ---
 <!-- Trophies -->
 <p align="center">
@@ -77,8 +126,9 @@
 
 ---
 
-### 💡 Quote of the Day  
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+### 💡 Quote of the Day
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 ---
 
