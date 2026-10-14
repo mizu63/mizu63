@@ -7,13 +7,13 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
 <br><br>
 
-```html
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mizu+Ahmmed;Frontend+Developer+from+Bangladesh;React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Always+Learning+New+Things!" alt="Typing SVG" />
   </a>
 </p>
-```
+
 
 <!-- Social Badge -->
 <!-- <p align="center">
